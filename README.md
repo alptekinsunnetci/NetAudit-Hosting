@@ -3,6 +3,7 @@
 NetAudit-Hosting, Go diliyle geliştirilmiş açık kaynaklı bir güvenlik denetim aracıdır. Bulut sağlayıcıların ve hosting firmalarının kendi IP bloklarını denetlemeleri ve dışa açık kritik servisleri tespit etmeleri için tasarlanmıştır.
 
 ⚠️ **SADECE SAVUNMA AMAÇLI GÜVENLİK**
+
 ⚠️ **SADECE YETKİLİ KULLANIM İÇİN**
 
 ## Yasal Uyarı
