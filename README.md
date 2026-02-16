@@ -49,4 +49,4 @@ go build -o netaudit
 - SSH (22), RDP (3389), MySQL (3306)
 
 ## Lisans
-Açık Kaynak - MIT Lisansı.
+GNU General Public License v3.0
